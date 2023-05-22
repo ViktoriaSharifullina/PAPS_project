@@ -184,7 +184,7 @@ build PAPS_project_autogen/timestamp PAPS_project_autogen/mocs_compilation.cpp |
 #############################################
 # Phony custom command for CMakeFiles\PAPS_project_autogen_timestamp_deps
 
-build CMakeFiles/PAPS_project_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/PAPS_project_autogen_timestamp_deps: phony D$:/ProgramsForStudy/Qt/6.5.0/mingw_64/lib/libQt6Core.a D$:/ProgramsForStudy/Qt/6.5.0/mingw_64/./bin/uic.exe D$:/ProgramsForStudy/Qt/6.5.0/mingw_64/./bin/moc.exe D$:/ProgramsForStudy/Qt/6.5.0/mingw_64/lib/libQt6Widgets.a
+build CMakeFiles/PAPS_project_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/PAPS_project_autogen_timestamp_deps: phony D$:/ProgramsForStudy/Qt/6.5.0/mingw_64/lib/libQt6Core.a D$:/ProgramsForStudy/Qt/6.5.0/mingw_64/./bin/moc.exe D$:/ProgramsForStudy/Qt/6.5.0/mingw_64/./bin/uic.exe D$:/ProgramsForStudy/Qt/6.5.0/mingw_64/lib/libQt6Widgets.a
 
 
 #############################################

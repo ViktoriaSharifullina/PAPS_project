@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-6195ab0d33b24369b870.json",
+					"jsonFile" : "directory-.-Debug-b00ad1756333bf0cb533.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
@@ -44,7 +44,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "PAPS_project::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-PAPS_project-Debug-8e33439b739e5a6dd1ed.json",
+					"jsonFile" : "target-PAPS_project-Debug-b434238095b23b60d4e6.json",
 					"name" : "PAPS_project",
 					"projectIndex" : 0
 				},
