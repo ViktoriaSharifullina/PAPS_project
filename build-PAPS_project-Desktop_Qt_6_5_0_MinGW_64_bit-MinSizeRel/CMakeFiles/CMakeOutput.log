@@ -1,0 +1,14 @@
+The system is: Windows - 10.0.22621 - AMD64
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: D:/ProgramsForStudy/Qt/Tools/mingw1120_64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
+
+The CXX compiler identification is GNU, found in "D:/ProgramsForStudy/PAPS/build-PAPS_project-Desktop_Qt_6_5_0_MinGW_64_bit-MinSizeRel/CMakeFiles/3.24.2/CompilerIdCXX/a.exe"
+

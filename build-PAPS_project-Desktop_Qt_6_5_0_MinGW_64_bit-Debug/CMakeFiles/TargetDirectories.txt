@@ -1,0 +1,9 @@
+D:/ProgramsForStudy/PAPS/build-PAPS_project-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/PAPS_project.dir
+D:/ProgramsForStudy/PAPS/build-PAPS_project-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/ProgramsForStudy/PAPS/build-PAPS_project-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/ProgramsForStudy/PAPS/build-PAPS_project-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/ProgramsForStudy/PAPS/build-PAPS_project-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/ProgramsForStudy/PAPS/build-PAPS_project-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/ProgramsForStudy/PAPS/build-PAPS_project-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/ProgramsForStudy/PAPS/build-PAPS_project-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/PAPS_project_autogen_timestamp_deps.dir
+D:/ProgramsForStudy/PAPS/build-PAPS_project-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/PAPS_project_autogen.dir

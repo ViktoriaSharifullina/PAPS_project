@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-79305d30f4cc305bb794.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PAPS_project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "PAPS_project::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PAPS_project-Debug-e89defeb9ad9fbc6ed68.json",
+					"name" : "PAPS_project",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PAPS_project_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PAPS_project_autogen-Debug-ad53d1561aa5cd6c8982.json",
+					"name" : "PAPS_project_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PAPS_project_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PAPS_project_autogen_timestamp_deps-Debug-a14b6541afc2850f94c0.json",
+					"name" : "PAPS_project_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/ProgramsForStudy/PAPS/build-PAPS_project-Desktop_Qt_6_5_0_MinGW_64_bit-Debug",
+		"source" : "D:/ProgramsForStudy/PAPS/PAPS_project"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
